@@ -1,0 +1,5 @@
+[init]
+	defaultBranch = main
+[user]
+	email = nullptr_ref@stack
+	name = &nullptr
